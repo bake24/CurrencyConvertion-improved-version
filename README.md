@@ -1,4 +1,4 @@
-# **CurrencyApp**
+# **CurrencyApp - Improved Version**
 
 **CurrencyApp** — одностраничное приложение (SPA) на **Vue 3** для просмотра и конвертации валют с использованием открытого API.
 
